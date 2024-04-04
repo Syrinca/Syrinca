@@ -23,10 +23,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 ### My Music Favorites:
 
 <details>
-  <summary>⌨ &nbsp; Code Jams</summary>
-  <ul>
-    <details>
-  <summary>♂ &nbsp; Gachi Remix</summary>
+  <summary>♂️ &nbsp; Gachi Remix</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
     <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
@@ -47,8 +44,6 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   <summary>🎵 &nbsp; Ordinary</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
-  </ul>
-</details>
   </ul>
 </details>
 
