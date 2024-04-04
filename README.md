@@ -15,10 +15,42 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 - 👾 &nbsp; Fun fact: All disclaimers are but a mere cloak.
 - 📫 &nbsp; Reach me out: syrinca@tuta.io.
 
-### My Absolute Favorites:
+### My Favorites:
 
 - 💻 &nbsp; I take pleasure in devising scripts for the sake of destruction and obliteration.
 - 📰 &nbsp; I take pleasure in composing articles about my endeavors, yet regrettably, they are all deemed as particularly perilous content and thus blocked.
+
+### My Music Favorites:
+<details>
+  <summary>⌨ &nbsp; Code Jams</summary>
+  <ul>
+    <details>
+  <summary>♂ &nbsp; Gachi Remix</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
+    <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
+    <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
+  </ul>
+</details>
+    <details>
+  <summary>♂ &nbsp; Marches</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=yWq-2tld57o">Song of the Defenders of Moscow</a></li>
+    <li><a href="https://www.youtube.com/watch?v=FdXIGQjnc0M">Тревожный марш</a></li>
+    <li><a href="https://www.youtube.com/watch?v=NIDJTHqY7mI">Panteri</a></li>
+    <li><a href="https://www.youtube.com/watch?v=yRGgl9KT9rE">Bosanska Artiljerija</a></li>
+  </ul>
+</details>
+    <details>
+  <summary>♂ &nbsp; Ordinary</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
+  </ul>
+</details>
+  </ul>
+</details>
+
 #
 
 <div align="center">
