@@ -1,15 +1,28 @@
-<h1 align="center">Salam popolam, I'm <a href="https://www.youtube.com/watch?v=POb02mjj2zE" target="_blank">Syrinca</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Ethical hacker from Russian Federation 🇷🇺</h3>
+## Salam popolam 👋, I'm [Syrinca!](https://www.youtube.com/watch?v=POb02mjj2zE/)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca" alt="Top Languages">
-  </a>
-</p>
+### I care not whether thou art present or absent. &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-The contradictions in everyday matters and the thirst for vengeance doth bestow upon me a vigour for life unparalleled. In the face of adversity, these conflicting forces intertwine to fuel my resolve and propel me forward with unwavering determination. The tumultuous nature of existence, fraught with challenges and retribution, serves as the crucible from which my strength is forged, shaping me into a formidable force to be reckoned with.
+I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. You can reach out to me via email for these services, with modest charges and assured quality of workmanship.
 
-**Should you require bespoke scripts and programmes tailored for the annihilation and obliteration within the Windows operating system, you may correspond with me via electronic mail. The charges are modest and the quality of workmanship assured.**
+***Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for informational purposes only.***
 
-***The scripts and programmes are not intended to cause harm to individuals and companies. Any actions you take with the scripts and programmes are your responsibility. The scripts and programmes are provided for informational purposes only.***
+<img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Batch, C, C++, C#, etc.
+- 🚀 &nbsp; I’m currently exploring Assembler.
+- 👾 &nbsp; Fun fact: All disclaimers are but a mere cloak.
+- 📫 &nbsp; Reach me out: syrinca@tuta.io.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I take pleasure in devising scripts for the sake of destruction and obliteration.
+- 📰 &nbsp; I take pleasure in composing articles about my endeavors, yet regrettably, they are all deemed as particularly perilous content and thus blocked.
+#
+
+<div align="center">
+
+### I care not for what thou shalt do.
+
+</div>
