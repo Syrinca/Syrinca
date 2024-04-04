@@ -30,6 +30,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
     <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
     <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
     <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sIn5kqjVsfM">Gangnam Style</a></li>
   </ul>
 </details>
     <details>
