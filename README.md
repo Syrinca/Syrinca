@@ -34,7 +34,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
     <details>
-  <summary>♂ &nbsp; Marches</summary>
+  <summary>🥁 &nbsp; Marches</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=yWq-2tld57o">Song of the Defenders of Moscow</a></li>
     <li><a href="https://www.youtube.com/watch?v=FdXIGQjnc0M">Тревожный марш</a></li>
@@ -43,7 +43,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
     <details>
-  <summary>♂ &nbsp; Ordinary</summary>
+  <summary>🎵 &nbsp; Ordinary</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
   </ul>
