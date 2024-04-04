@@ -11,7 +11,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Batch, C, C++, C#, etc.
-- 🚀 &nbsp; I’m currently exploring Assembler.
+- 🚀 &nbsp; I’m currently exploring UNIX.
 - 👾 &nbsp; Fun fact: All disclaimers are but a mere cloak.
 - 📫 &nbsp; Reach me out: syrinca@tuta.io.
 
