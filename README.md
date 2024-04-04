@@ -6,7 +6,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 ***Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for informational purposes only.***
 
-<img align="right" height="200" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca" />
+<img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca" />
 
 ### Talking about Personal Stuff:
 
