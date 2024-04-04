@@ -31,6 +31,9 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
     <li><a href="https://www.youtube.com/watch?v=yaX9nNwdVn4">HARD DRIVE</a></li>
     <li><a href="https://www.youtube.com/watch?v=POb02mjj2zE">Юность в сапогах</a></li>
     <li><a href="https://www.youtube.com/watch?v=sIn5kqjVsfM">Gangnam Style</a></li>
+    <li><a href="https://www.youtube.com/watch?v=4EKtjx4AAoQ">Снова Я Напиваюсь</a></li>
+    <li><a href="https://www.youtube.com/watch?v=p0YOYjHLvaY">Быстро</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OsIcXvhtRxk">Дико тусим</a></li>
   </ul>
 </details>
     <details>
@@ -46,12 +49,24 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   <summary>🎵 &nbsp; Ordinary</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=TbsBEb1ZxWA">Lone Digger</a></li>
   </ul>
 </details>
     <details>
   <summary>⭐ &nbsp; Genial</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=6g5ANGOB2dI">The Bottom 2</a></li>
+    <li><a href="https://www.youtube.com/watch?v=z68TX6cyS6w">Red Sun In The Sky (Phonk Remix)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=0V0-I-vNmNQ">Малый ПОСОСИ</a></li>
+  </ul>
+</details>
+    <details>
+  <summary>🗾 &nbsp; Anime</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=ofs6L8xNs5k">猫祭り</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ANp0qch3XVM">ダダダダ天使</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OJXi5BvR_DU">Take Me!</a></li>
+    <li><a href="https://www.youtube.com/watch?v=DJfg39WkMvE">Blend W</a></li>
   </ul>
 </details>
 
