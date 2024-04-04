@@ -15,7 +15,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 - 👾 &nbsp; Fun fact: All disclaimers are but a mere cloak.
 - 📫 &nbsp; Reach me out: syrinca@tuta.io.
 
-### My Favorites:
+### My Hobbies:
 
 - 💻 &nbsp; I take pleasure in devising scripts for the sake of destruction and obliteration.
 - 📰 &nbsp; I take pleasure in composing articles about my endeavors, yet regrettably, they are all deemed as particularly perilous content and thus blocked.
