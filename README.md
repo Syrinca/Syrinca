@@ -1,4 +1,4 @@
-## Salam popolam 👋, I'm [Syrinca!](https://www.youtube.com/watch?v=POb02mjj2zE/)
+## Salam popolam, I'm [Syrinca.](https://www.youtube.com/watch?v=POb02mjj2zE/)
 
 ### I care not whether thou art present or absent. &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
@@ -8,7 +8,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 <img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact" />
 
-### Talking about Personal Stuff:
+### Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Batch, C, C++, C#, etc.
 - 🚀 &nbsp; I’m currently exploring UNIX.
