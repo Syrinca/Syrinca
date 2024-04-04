@@ -46,6 +46,12 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
     <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
   </ul>
 </details>
+    <details>
+  <summary>⭐ &nbsp; Genial</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=6g5ANGOB2dI">The Bottom 2</a></li>
+  </ul>
+</details>
 
 #
 
