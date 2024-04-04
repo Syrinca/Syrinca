@@ -12,4 +12,4 @@ The contradictions in everyday matters and the thirst for vengeance doth bestow 
 
 **Should you require bespoke scripts and programmes tailored for the annihilation and obliteration within the Windows operating system, you may correspond with me via electronic mail. The charges are modest and the quality of workmanship assured.**
 
-***The scripts are not intended to cause harm to individuals and companies. Any actions you take with the scripts are your responsibility. The scripts are provided for informational purposes only.***
+***The scripts and programmes are not intended to cause harm to individuals and companies. Any actions you take with the scripts and programmes are your responsibility. The scripts and programmes are provided for informational purposes only.***
