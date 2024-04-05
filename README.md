@@ -10,18 +10,18 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 ### Personal Stuff:
 
-- 🖨 &nbsp; I’m currently working with Batch, C, C++, C#, etc.
-- 🧮 &nbsp; I’m currently exploring UNIX.
-- 💀 &nbsp; Fun fact: All disclaimers are but a mere cloak.
+- 🖨 I’m currently working with Batch, C, C++, C#, etc.
+- 🧮 I’m currently exploring UNIX.
+- 💀 Fun fact: All disclaimers are but a mere cloak.
 
 ### My Hobbies:
 
-- 🚯 &nbsp; I take pleasure in causing mischief to every scoundrelly rabble.
+- 🚯 I take pleasure in causing mischief to every scoundrelly rabble.
 
 ### My Music Favorites:
 
 <details>
-  <summary>♂️ &nbsp; Gachi Remix</summary>
+  <summary>♂️ Gachi Remix</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=7Oq6im5CaY8">adaptive strike</a></li>
     <li><a href="https://www.youtube.com/watch?v=sJ2Z93BFROM">Бабы</a></li>
@@ -35,7 +35,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
     <details>
-  <summary>🥁 &nbsp; Marches</summary>
+  <summary>🥁 Marches</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=yWq-2tld57o">Song of the Defenders of Moscow</a></li>
     <li><a href="https://www.youtube.com/watch?v=FdXIGQjnc0M">Тревожный марш</a></li>
@@ -44,14 +44,14 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
     <details>
-  <summary>🎵 &nbsp; Ordinary</summary>
+  <summary>🎵 Ordinary</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=ww9hZfgC2d8">머리어깨무릎발 (H.S.K.T.)</a></li>
     <li><a href="https://www.youtube.com/watch?v=TbsBEb1ZxWA">Lone Digger</a></li>
   </ul>
 </details>
     <details>
-  <summary>⭐ &nbsp; Genial</summary>
+  <summary>⭐ Genial</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=6g5ANGOB2dI">The Bottom 2</a></li>
     <li><a href="https://www.youtube.com/watch?v=z68TX6cyS6w">Red Sun In The Sky (Phonk Remix)</a></li>
@@ -59,7 +59,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
     <details>
-  <summary>🗾 &nbsp; Anime</summary>
+  <summary>🗾 Anime</summary>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=ofs6L8xNs5k">猫祭り</a></li>
     <li><a href="https://www.youtube.com/watch?v=ANp0qch3XVM">ダダダダ天使</a></li>
@@ -68,6 +68,9 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
   </ul>
 </details>
 
+  ### My Contacts:
+<p><a href="https://github.com/Syrinca" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://steamcommunity.com/id/syrinca/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="https://pinterest.com/syrincaofficial" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a><a href="mailto:syrinca@tuta.io" target="_blank"><img alt="Tuta" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /></a><a href="https://account.wire.com/user-profile/?id=94302493-c3b9-48ef-a171-94492cdbafc8" target="_blank"><img alt="Wire" src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /></a></p>
+    
 #
 
 <div align="center">
