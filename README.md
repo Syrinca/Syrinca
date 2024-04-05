@@ -8,7 +8,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 <img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrinca&layout=compact" />
 
-### Personal Stuff:
+### Personal Info:
 
 - 🖨 I’m working with Batch, C, C++, C#, etc.
 - 🧮 I’m exploring UNIX.
