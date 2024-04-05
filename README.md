@@ -1,6 +1,6 @@
 ## Salam popolam, I'm [Syrinca.](https://www.youtube.com/watch?v=POb02mjj2zE/)
 
-### I care not whether thou art present or absent. &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Syrinca.Syrinca&style=flat-square&color=0088cc)
+### I care not whether thou art present or absent.
 
 I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. You can reach out to me via email for these services, with modest charges and assured quality of workmanship.
 
