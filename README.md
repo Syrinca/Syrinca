@@ -12,7 +12,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 - 🖨 I’m working with Batch, C, C++, C#, etc.
 - 🧮 I’m exploring UNIX.
-- 💀 Fun fact: All disclaimers are but a mere cloak.
+- 💀 Fact: All disclaimers are but a mere cloak.
 
 ### My Hobbies:
 
