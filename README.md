@@ -2,7 +2,7 @@
 
 ### I care not whether thou art present or absent.
 
-I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. You can reach out to me via email for these services, with modest charges and assured quality of workmanship.
+I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.
 
 ***Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for informational purposes only.***
 
