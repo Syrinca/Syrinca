@@ -10,13 +10,13 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 ### Personal Stuff:
 
-- 🖨  I’m currently working with Batch, C, C++, C#, etc.
-- 🧮  I’m currently exploring UNIX.
-- 💀  Fun fact: All disclaimers are but a mere cloak.
+- 🖨 I’m currently working with Batch, C, C++, C#, etc.
+- 🧮 I’m currently exploring UNIX.
+- 💀 Fun fact: All disclaimers are but a mere cloak.
 
 ### My Hobbies:
 
-- 🚯  I take pleasure in causing mischief to every scoundrelly rabble.
+- 🚯 I take pleasure in causing mischief to every scoundrelly rabble.
 
 ### My Music Favorites:
 
