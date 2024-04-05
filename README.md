@@ -1,4 +1,4 @@
-## Salam popolam, I'm [Syrinca.](https://www.youtube.com/watch?v=E6-lxB4G814/)
+## Salam popolam, I'm [Syrinca.](https://syrinca.github.io/)
 
 ### I care not whether thou art present or absent.
 
