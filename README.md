@@ -17,8 +17,6 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
 
 ### My Hobbies:
 
-- 💻 &nbsp; I take pleasure in devising scripts for the sake of destruction and obliteration.
-- 📰 &nbsp; I take pleasure in composing articles about my endeavors, yet regrettably, they are all deemed as particularly perilous content and thus blocked.
 - 🚯 &nbsp; I take pleasure in causing mischief to every scoundrelly rabble.
 
 ### My Music Favorites:
