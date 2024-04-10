@@ -32,6 +32,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
     <li><a href="https://www.youtube.com/watch?v=p0YOYjHLvaY">Быстро</a></li>
     <li><a href="https://www.youtube.com/watch?v=OsIcXvhtRxk">Дико тусим</a></li>
     <li><a href="https://www.youtube.com/watch?v=E6-lxB4G814">Прорвёмся! (опера)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=pef6xRbDtdo">Малый повзрослел</a></li>
   </ul>
 </details>
     <details>
