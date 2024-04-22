@@ -57,6 +57,7 @@ I am a developer of bespoke scripts and programs tailored for the annihilation a
     <li><a href="https://www.youtube.com/watch?v=6g5ANGOB2dI">The Bottom 2</a></li>
     <li><a href="https://www.youtube.com/watch?v=z68TX6cyS6w">Red Sun In The Sky (Phonk Remix)</a></li>
     <li><a href="https://www.youtube.com/watch?v=0V0-I-vNmNQ">Малый ПОСОСИ</a></li>
+    <li><a href="https://www.youtube.com/watch?v=XOCVp1UWck0">Голубой вагон</a></li>
   </ul>
 </details>
     <details>
